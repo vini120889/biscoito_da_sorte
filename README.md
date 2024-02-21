@@ -1,6 +1,6 @@
 # Biscoito da sorte
 
-## Informações do Projeto
+### Informações do Projeto
 
 Nesse projeto foram abordados os seguintes conhecimentos:
 
