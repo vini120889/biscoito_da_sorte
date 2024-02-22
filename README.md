@@ -1,13 +1,13 @@
-# Biscoito da sorte
+# Fortune cookie
 
-### Informações do Projeto
+### Project Information
 
-Nesse projeto foram abordados os seguintes conhecimentos:
+This project covered the following knowledge:
 
-- Estrutura de dados HTML;
-- Animações com o CSS;
-- Funções no JS;
-- Manipulação da DOM;
+- HTML data structure;
+- Animations with CSS;
+- Functions in JS;
+- DOM manipulation;
 - Arrays
 
 ## Preview
